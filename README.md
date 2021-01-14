@@ -2,7 +2,7 @@
 
 My name is João Arthur, I’m a brazilian Data Scientist, graduated in public administration and I want learn more and more.
 
-- 🤔 Techs: Python, SQL, AI, Cloud
+- 🤔 Techs: Python, SQL, AI, Cloud, Docker
 - 📫 How to reach me: ja_mendonca92@hotmail.com | [LinkedIn](www.linkedin.com/in/joao-arthur-mendonca/)
 
 Check out my repositories =D
